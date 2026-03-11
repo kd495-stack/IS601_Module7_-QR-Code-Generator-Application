@@ -10,6 +10,9 @@ A Dockerized Python application that generates QR codes from URLs.
 ## DockerHub
 - **Image:** [kdulobo12/qr-code-generator-app](https://hub.docker.com/r/kdulobo12/qr-code-generator-app)
 
+## QR Code
+![Docker QR Code](qr_codes/QRCode_20260311034914.png)
+
 ## Project Structure
 ```
 qr-code-generator/
